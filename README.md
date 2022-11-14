@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil!
 
-Meu nome é Alexary, tá permitido chamar de Alex para ficar mais facíl, sou alguém muito animado e sempre queerndo saber mais! Tecnologia é minha paixão desde pequeno e só to descobrindo agora que nem tudo é flores hehehe. 
+Meu nome é Alexary, tá permitido chamar de Alex para ficar mais facíl, sou alguém muito animado e sempre querendo saber mais! Tecnologia é minha paixão desde pequeno e só to descobrindo agora que nem tudo é flores hehehe. 
 
 Mas estou me divertindo na minha jornada de DEV! Seja bem vindo :>!
 
